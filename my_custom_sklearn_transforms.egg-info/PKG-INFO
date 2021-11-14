@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: sklearn_tansforms
 Version: 1.0
 Summary: This is a sample python package for encapsulating custom tranforms from scikit-learn into Watson Machine Learning
-Home-page: https://github.com/maksonviini/sklearn_tansforms/
+Home-page: https://github.com/MaksonViini/watson-sklearn-transforms
 Author: Makson Vinicio
 Author-email: Makson Vinicio
 License: MIT
